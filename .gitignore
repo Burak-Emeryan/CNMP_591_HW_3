@@ -1,5 +1,10 @@
-.DS_Store
-__pycache__
-.vscode
-src/data
+__pycache__/
+*.pyc
+*.pt
 *.pth
+data/
+checkpoints/
+.venv/
+.vscode/
+.idea/
+.DS_Store
